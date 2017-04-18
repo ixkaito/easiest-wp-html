@@ -1399,6 +1399,7 @@ comment
 
 .comment-list .comment {
 	min-height: 150px;
+	position: relative;
 }
 
 .comment-body {
